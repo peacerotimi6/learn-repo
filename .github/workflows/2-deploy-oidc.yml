@@ -3,7 +3,7 @@ name: Deploy to Azure Web App (OIDC)
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   deploy:
