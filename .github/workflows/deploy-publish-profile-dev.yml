@@ -1,6 +1,6 @@
 name: Deploy to Azure Web App (Dev branch)
 
-# Trigger workflow on push to dev branch
+# ##Trigger workflow on push to dev branch ###
 on:
   push:
     branches:
